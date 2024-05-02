@@ -2,3 +2,5 @@
 # Files
 /mnist/data
 /cifar_10_cnn/data
+/glottis_unet
+/name_classification_rnn/data
