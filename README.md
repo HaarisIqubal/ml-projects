@@ -10,5 +10,8 @@ This repo is a personal showcase of my machine learning (ml) journey. In this re
 
 3. CIFAR 10 Object Detection using CNN  - [Link](https://github.com/HaarisIqubal/ml-projects/tree/main/cifar_10_cnn)
 
+4. Name Classification using RNN - [Link](https://github.com/HaarisIqubal/ml-projects/tree/main/name_classification_rnn)
+
+5. Hand Pose Reading American Sign Language - [Link](https://github.com/HaarisIqubal/ml-projects/tree/main/hand_pose)
 
 Many more to come ...
