@@ -4,3 +4,5 @@
 /cifar_10_cnn/data
 /glottis_unet
 /name_classification_rnn/data
+/hand_writing_recog_app
+/hand_pose/data
